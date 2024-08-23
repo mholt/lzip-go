@@ -8,7 +8,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/sorairolake/lzip-go"
+	"github.com/mholt/lzip-go"
 )
 
 const version = "0.3.5"

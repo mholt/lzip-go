@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/sorairolake/lzip-go"
+	"github.com/mholt/lzip-go"
 )
 
 func TestErrInvalidMagic(t *testing.T) {

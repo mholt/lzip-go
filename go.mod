@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: Apache-2.0 OR MIT
 
-module github.com/sorairolake/lzip-go
+module github.com/mholt/lzip-go
 
 go 1.22
 

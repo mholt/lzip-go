@@ -11,7 +11,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/sorairolake/lzip-go"
+	"github.com/mholt/lzip-go"
 )
 
 func Example() {

@@ -8,7 +8,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/sorairolake/lzip-go"
+	"github.com/mholt/lzip-go"
 )
 
 func TestHeaderSize(t *testing.T) {

@@ -9,7 +9,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/sorairolake/lzip-go"
+	"github.com/mholt/lzip-go"
 )
 
 func compress(file string, output *os.File, opt options) error {

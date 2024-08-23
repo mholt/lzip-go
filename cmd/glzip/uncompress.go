@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/sorairolake/lzip-go"
+	"github.com/mholt/lzip-go"
 )
 
 func uncompress(file string, output *os.File, opt options) error {

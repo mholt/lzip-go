@@ -11,7 +11,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/sorairolake/lzip-go"
+	"github.com/mholt/lzip-go"
 )
 
 func TestWriter(t *testing.T) {
